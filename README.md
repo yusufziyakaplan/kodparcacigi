@@ -86,3 +86,5 @@ Bu proje MIT lisansı ile lisanslanmıştır.
 
 NOT: Bu proje boş zaman eseridir. Hataları yada eksikleri olacaktır. Kendinize göre düzenleyebilirsiniz. illa ki açığı veya eksiği vardır.
 Kullanın ama satmayın :)
+
+Kahve zımbırtısı :) https://coff.ee/yusufkaplan
